@@ -34,8 +34,8 @@ $ git clone https://github.com/vinisioux/simple-crud-docker.git
 # Go into the repository
 $ cd realtime-chat-typescript/
 
-# Go into backend
-$ cd backend
+# Go into server folder
+$ cd server
 
 # Install dependencies
 $ docker-compose up
