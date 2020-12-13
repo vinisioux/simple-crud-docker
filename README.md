@@ -37,7 +37,7 @@ $ cd realtime-chat-typescript/
 # Go into server folder
 $ cd server
 
-# Install dependencies
+# Start server
 $ docker-compose up
 
 # On another terminal, go to the frontend folder
