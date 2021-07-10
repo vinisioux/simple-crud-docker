@@ -32,7 +32,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 $ git clone https://github.com/vinisioux/simple-crud-docker.git
 
 # Go into the repository
-$ cd realtime-chat-typescript/
+$ cd simple-crud-docker/
 
 # Go into server folder
 $ cd server
